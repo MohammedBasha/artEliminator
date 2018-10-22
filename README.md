@@ -1,0 +1,2 @@
+# **Art Eliminator**
+Pick your favorite piece of art through the process of elimination. Click on the pieces you like the least until you are left with a single one. Click on the last image to get some info.
